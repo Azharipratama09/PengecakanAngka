@@ -60,10 +60,10 @@ private boolean isPrime(int number) {
 ~~~
 private void jTextField1FocusGained(java.awt.event.FocusEvent evt) {                                        
        jTextField1.setText("");
-    }  
+    }
 ~~~
-
-    ## Contoh Gambar Project Setelah di Run
+    
+## Contoh Gambar Project Setelah di Run
 ![](https://github.com/Azharipratama09/PengecakanAngka/blob/main/Cuplikan%20layar%202024-11-04%20095400.png)
  
 
